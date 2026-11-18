@@ -1,7 +1,7 @@
 # Chef's Menu Manager
 
 React Native (Expo) app that lets a chef add and view menu items
-(dish name, description, course, price).
+Such as dish name, description, course and price.
 
 ## Run it
 
